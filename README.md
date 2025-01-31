@@ -2,9 +2,7 @@
 ## Advanced Moonshot Token Launch & Acquisition System
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rizza-cooks/trenchshotbot/main/trenchshotbot_logo.png" alt="TrenchShotBot Logo" width="400"/>
-</p>
+![trenchshotbot_logo_small300](https://github.com/user-attachments/assets/ae108f04-48ee-4f8b-80ae-6b0e7111d7c8)
 
 
 ### By Rizza Dev
